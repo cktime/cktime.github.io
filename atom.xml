@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://blog.cktime.tk</id>
+    <title>cktime的博客</title>
+    <updated>2022-07-13T14:31:00.350Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://blog.cktime.tk"/>
+    <link rel="self" href="https://blog.cktime.tk/atom.xml"/>
+    <subtitle>温故而知新</subtitle>
+    <logo>https://blog.cktime.tk/images/avatar.png</logo>
+    <icon>https://blog.cktime.tk/favicon.ico</icon>
+    <rights>All rights reserved 2022, cktime的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[Nekogram X | 内置代理的第三方Telegram安卓客户端]]></title>
+        <id>https://blog.cktime.tk/post/202110311/</id>
+        <link href="https://blog.cktime.tk/post/202110311/">
+        </link>
+        <updated>2021-10-31T03:37:02.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="什么是nekox和nekogram-x">什么是NekoX和Nekogram X</h1>
+<blockquote>
+<p>“NekoX 是一个 免费开源 的第三方 Telegram 客户端，基于 Telegram-FOSS 并添加了一些功能。”，这是官方的描述。Telegram因为开放api和源码，所以第三方客户端层出不穷，而NekoX是其中一个佼佼者，Nekogram X则是该项目推出的安卓客户端。该项目对客户端进行了大量修改，其中令人眼前一亮的是内置公共代理，这意味着你无需使用其他手段进行科学上网，就能直接使用TG，另外它还支持内置 VMess等代理方式，总之，它是一个非常不错的选择。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="什么是nekox和nekogram-x">什么是NekoX和Nekogram X</h1>
+<blockquote>
+<p>“NekoX 是一个 免费开源 的第三方 Telegram 客户端，基于 Telegram-FOSS 并添加了一些功能。”，这是官方的描述。Telegram因为开放api和源码，所以第三方客户端层出不穷，而NekoX是其中一个佼佼者，Nekogram X则是该项目推出的安卓客户端。该项目对客户端进行了大量修改，其中令人眼前一亮的是内置公共代理，这意味着你无需使用其他手段进行科学上网，就能直接使用TG，另外它还支持内置 VMess等代理方式，总之，它是一个非常不错的选择。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[v2rayN[G] | 好用的v2ray安卓/windows客户端]]></title>
+        <id>https://blog.cktime.tk/post/202110241/</id>
+        <link href="https://blog.cktime.tk/post/202110241/">
+        </link>
+        <updated>2021-10-24T09:59:39.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="什么是v2ray">什么是v2ray</h1>
+<blockquote>
+<p>V2Ray，是Victoria Raymond以及其社群团队开发的Project V下的一个工具。Project V是一个工具集合，号称可以帮助其使用者打造专属的基础通信网络。Project V的核心工具称为V2Ray，其主要负责网络协议和功能的实现，与其它Project V通信。V2Ray可以单独运行，也可以和其它工具配合，以提供简便的操作流程。开发过程主要使用Go语言，Core采用MIT许可证并开放源代码。<br>
+在中国大陆，本工具广泛用于<strong>突破防火长城（GFW）</strong>，以访问被封锁和屏蔽的内容。</p>
+</blockquote>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="什么是v2ray">什么是v2ray</h1>
+<blockquote>
+<p>V2Ray，是Victoria Raymond以及其社群团队开发的Project V下的一个工具。Project V是一个工具集合，号称可以帮助其使用者打造专属的基础通信网络。Project V的核心工具称为V2Ray，其主要负责网络协议和功能的实现，与其它Project V通信。V2Ray可以单独运行，也可以和其它工具配合，以提供简便的操作流程。开发过程主要使用Go语言，Core采用MIT许可证并开放源代码。<br>
+在中国大陆，本工具广泛用于<strong>突破防火长城（GFW）</strong>，以访问被封锁和屏蔽的内容。</p>
+</blockquote>
+]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[小火箭 | Shadowrocket 从下载到使用]]></title>
+        <id>https://blog.cktime.tk/post/202110231/</id>
+        <link href="https://blog.cktime.tk/post/202110231/">
+        </link>
+        <updated>2021-10-23T04:58:57.000Z</updated>
+        <summary type="html"><![CDATA[<h1 id="什么是shadowrocket小火箭">​什么是Shadowrocket/小火箭</h1>
+<p>ShadowRocket是苹果iOS设备上的一款代理工具，支持协议众多，使用方便，除了支持常见的Http等代理外，还可以被用做Shadowsocks、ShadowsocksR、V2Ray的客户端使用,被大家亲切的称为小火箭。<br>
+简单的来说，它可以用来<strong>科学上网</strong>。</p>
+]]></summary>
+        <content type="html"><![CDATA[<h1 id="什么是shadowrocket小火箭">​什么是Shadowrocket/小火箭</h1>
+<p>ShadowRocket是苹果iOS设备上的一款代理工具，支持协议众多，使用方便，除了支持常见的Http等代理外，还可以被用做Shadowsocks、ShadowsocksR、V2Ray的客户端使用,被大家亲切的称为小火箭。<br>
+简单的来说，它可以用来<strong>科学上网</strong>。</p>
+]]></content>
+    </entry>
+</feed>
